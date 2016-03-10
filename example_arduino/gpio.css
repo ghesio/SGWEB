@@ -1,0 +1,15 @@
+.gpio{
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  border:2px solid black;
+}
+
+
+.spacer{
+  height: 20px !important;
+}
+
+.spacers{
+  height: 5px !important;
+}
